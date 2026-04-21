@@ -76,15 +76,6 @@ Combino mi formación técnica con experiencia laboral en **atención al cliente
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AgustinMela&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1F4E79&icon_color=2E75B6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinMela&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1F4E79" />
-</p>
-
----
-
 ## 🎯 Objetivos actuales
 
 - [ ] Profundizar en **Machine Learning** con scikit-learn
