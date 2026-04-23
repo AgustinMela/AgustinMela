@@ -66,16 +66,6 @@ Combino mi formación técnica con experiencia laboral en **atención al cliente
 
 ---
 
-## 📂 Proyectos destacados
-
-> 🚧 *Este repositorio se encuentra en crecimiento constante. Próximamente se sumarán nuevos proyectos desarrollados durante la cursada y por cuenta propia.*
-
-- 🔍 **Análisis exploratorio de datos con Python** – Limpieza, transformación y visualización de datasets con pandas y matplotlib.
-- 📊 **Dashboard interactivo en Power BI** – Tablero de indicadores integrando múltiples fuentes de datos con foco en storytelling.
-- 🗄️ **Consultas y modelado en MySQL** – Diseño de esquemas relacionales y consultas SQL para análisis de datos.
-
----
-
 ## 🎯 Objetivos actuales
 
 - [ ] Profundizar en **Machine Learning** con scikit-learn
